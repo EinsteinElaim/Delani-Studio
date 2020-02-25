@@ -16,20 +16,7 @@ Finally, based on your requirements, Delani Studio's team can provide a complete
 
 
                   
-                                practices such as test-driven development and pair programming.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-xs-4">
-                        <div id="product"><img src="IP3-master/assets/services_icons/product_icon.png">
-                            <h6>PRODUCT MANAGEMENT</h6>
-                        </div>
-                        <div id="prod-content">
-                            <h6><b>PRODUCT MANAGEMENT</b></h6>
-                            <p>
-                                Planning and development is iterative. Because we are constantly coding and testing, the
-                                products we build are always ready to go live.
-                                This iterative process allows for changes as business requirements evolve.
+                          s for changes as business requirements evolve.
                             </p>
                         </div>
                     </div>
