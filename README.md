@@ -15,17 +15,6 @@ Finally, based on your requirements, Delani Studio's team can provide a complete
 
 
 
-                        <div id="design"><img src="/IP3-master/assets/services_icons/design_icon.png">
-                            <h6>DESIGN</h6>
-                        </div>
-                        <div id="content">
-                            <h6><b>DESIGN</b></h6>
-                            <p>
-                                Our design practice offers a full range of services including brand strategy, interaction and
-                                visual design and user experience testing.
-                                Throughout your project, our designers create and implement visual design and workflows, solicit
-                                user feedback and work with you to make sure what gets built is what is needed.
-                            </p>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-4">
