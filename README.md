@@ -12,8 +12,6 @@ After the About Us section, the user will see the Services section which is comp
 Then they hold a scoping session whose outcome is a proposal or high-level statement of work.
 Finally, based on your requirements, Delani Studio's team can provide a complete offering or just the pieces you need for the project.
 
-### About Us and Services
-This sections are simple to create and all that was needed was to place them into containers and style them using css.
 
 ### Icons
 The icons were created to be able to toggle when clicked. To do this by 
