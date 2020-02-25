@@ -14,10 +14,7 @@ Finally, based on your requirements, Delani Studio's team can provide a complete
 
 
 
-```
-<div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-4 col-xs-4">
+
                         <div id="design"><img src="/IP3-master/assets/services_icons/design_icon.png">
                             <h6>DESIGN</h6>
                         </div>
