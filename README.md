@@ -1,9 +1,9 @@
-# STUDIOS
-### By Neema Shiramba
-#### 20/2/2020
+# DELANI STUDIO WEBSITE
 
-## Description
-This is an app about Delani studios. It expounds on details about us and the services we offer, through this app we display a portfolio of our our past work and last but not list enable our clients contact us. 
+# 22/2/2020
+
+# Description
+This is a web app for  Delani studio. It's comprised of a welcome note on opening the site, an About Us section that follows it that includes descriptions of Delani Studio, what they do at Delani Studio and how they do it briefly.
 
 ## Behaviour Based Development
 ### Home page
