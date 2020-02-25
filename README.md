@@ -12,33 +12,11 @@ After the About Us section, the user will see the Services section which is comp
 Then they hold a scoping session whose outcome is a proposal or high-level statement of work.
 Finally, based on your requirements, Delani Studio's team can provide a complete offering or just the pieces you need for the project.
 
-"100%">
-                            </div>
-                            <div id="text1" class="fade"><p>Black theme</p></div>
-                        </div>
-```
+
 To add the hover effect when the mouse is ontop of on each portfolio, we add the following javascript.
 
-```
- $("#col-1").hover(function() {
-      $("#text1").fadeTo("slow",1);
-      $("#photo1").fadeTo("slow",0.4);
-      },function() {
-        $("#text1").fadeTo("slow",0);
-        $("#photo1").fadeTo("slow",1);
-      });
-```
-
-### The Footer
-The final part of the page is to name and the year it was published. 
-```
- <div class="end">
-                <p>DELANI STUDIO</p>
-                <P>2020</P>
-            </div>
-```
 ### Known Bugs
-If you find any issues in the code feel free to [click here](https://neema-bmb.github.io/Delani/)
+As is, the project contains no known bugs.
 
 ### Technologies Used
 I used:
