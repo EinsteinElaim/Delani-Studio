@@ -5,20 +5,8 @@
 # Description
 This is a web app for  Delani studio. It's comprised of a welcome note on opening the site, an About Us section that follows it that includes descriptions of Delani Studio, what they do at Delani Studio and how they do it briefly.
 
-## Behaviour Based Development
-### Home page
- Add the logo using the link method show below, then typed in the content using the appropriate sizes of text as shown.
-
-```
-  <div class="back">
-                    <div class="logo"><img src="IP3-master/assets/logo/logo.png"></div><br><br>
-                    <H1>WELCOME</H1>
-                    <h1>TO DELANI STUDIO</h1>
-                    <p>AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN FUN ENVIRONMENT</p><br><br><br><br><br><br>
-                    <img src="IP3-master/assets/mouse_click.png">
-                </div><br><br>
-```
-Then add the background image using css.
+# Behaviour Driven Development
+On opening the site,
 
 ### About Us and Services
 This sections are simple to create and all that was needed was to place them into containers and style them using css.
