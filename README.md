@@ -12,45 +12,7 @@ After the About Us section, the user will see the Services section which is comp
 Then they hold a scoping session whose outcome is a proposal or high-level statement of work.
 Finally, based on your requirements, Delani Studio's team can provide a complete offering or just the pieces you need for the project.
 
-
-
-
-                  
-                         
-    });
-    $("div#content").click(function() {
-      $("div#content").toggle();
-      $("div#design").toggle();
-    });
-    $("div#dev").click(function() {
-      $("div#dev-content").toggle();
-      $("div#dev").toggle();
-    });
-    $("div#dev-content").click(function() {
-      $("div#dev-content").toggle();
-      $("div#dev").toggle();
-    });
-    $("div#product").click(function() {
-      $("div#prod-content").toggle();
-      $("div#product").toggle();
-    });
-    $("div#prod-content").click(function() {
-      $("div#prod-content").toggle();
-     $("div#product").toggle();
-    });
-```
-
-### Portfolio
-In the portfolio section they where eight different portfolios.first thing to do is place them in the the following classes;
-```
-<div class="container">
-                    <div class="row">
-```
-Then place each portfolio inside it's own column class so that we will be able to edit each portfolio individually.
-
-```
-<div id="photo1">
-                                <img src="IP3-master/assets/portfolio/work4.jpg" class="img-responsive" width="100%">
+"100%">
                             </div>
                             <div id="text1" class="fade"><p>Black theme</p></div>
                         </div>
