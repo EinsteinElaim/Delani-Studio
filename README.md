@@ -13,8 +13,6 @@ Then they hold a scoping session whose outcome is a proposal or high-level state
 Finally, based on your requirements, Delani Studio's team can provide a complete offering or just the pieces you need for the project.
 
 
-### Icons
-The icons were created to be able to toggle when clicked. To do this by 
 
 ```
 <div class="container-fluid">
