@@ -6,7 +6,11 @@
 This is a web app for  Delani studio. It's comprised of a welcome note on opening the site, an About Us section that follows it that includes descriptions of Delani Studio, what they do at Delani Studio and how they do it briefly.
 
 # Behaviour Driven Development
-On opening the site,
+On opening the site, the user gets an interactive layout to the site.
+The user can check out the about us section rght after the welcome section for brief details about Delani Studio and what they do there.
+After the About Us section, the user will see the Services section which is comprised of brief descriptions of the order of how Delani Studio's team goes about understanding the product vision of a contract before they act on it.
+Then they hold a scoping session whose outcome is a proposal or high-level statement of work.
+Finally, based on your requirements, Delani Studio's team can provide a complete offering or just the pieces you need for the project.
 
 ### About Us and Services
 This sections are simple to create and all that was needed was to place them into containers and style them using css.
