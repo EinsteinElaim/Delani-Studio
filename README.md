@@ -28,7 +28,7 @@ As is, the project contains no known bugs.
 Technologies used include:
 HTML, Bootstrap, CSS, jQuery & Javascript.
 
-### Contact me on: einsteineliamgmail.com
+### Contact me on: einsteineliame@gmail.com
 I encourage anyone who has any contribution to make to this code to improve it do so. 
 Live link:https://einsteinelaim.github.io/Delani-Studio/
 
