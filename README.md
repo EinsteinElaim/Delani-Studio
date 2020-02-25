@@ -15,17 +15,7 @@ Finally, based on your requirements, Delani Studio's team can provide a complete
 
 
 
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-xs-4">
-                        <div id="dev"><img src="IP3-master/assets/services_icons/dev_icon.png">
-                            <h6>DEVELOPMENT</h6>
-                        </div>
-                        <div id="dev-content">
-                            <h6><b>DEVELOPMENT</b></h6>
-                            <p>
-                                All engineers are fluent in the latest enterprise, mobile and web development technologies.
-                                They collaborate with your team to write, and improve code on a daily basis, using proven
+                  
                                 practices such as test-driven development and pair programming.
                             </p>
                         </div>
