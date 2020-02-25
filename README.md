@@ -16,18 +16,7 @@ Finally, based on your requirements, Delani Studio's team can provide a complete
 
 
                   
-                          s for changes as business requirements evolve.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-```
-then add the following Javascript to make it function as wanted, using the classes that were assigned above.
-
-```
-  $("div#design").click(function() {
-      $("div#content").toggle();
-      $("div#design").toggle();
+                         
     });
     $("div#content").click(function() {
       $("div#content").toggle();
